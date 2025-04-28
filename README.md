@@ -59,7 +59,7 @@ flutter run
 
 ## 📦 Link para Testar
 
-- 🔗 [Clique aqui para baixar o APK ou acessar a versão web](link_para_o_apk_ou_web)
+- 🔗 [Clique aqui para acessar a versão web](https://preview.flutlab.io/caio_taveira/pokedex/)
 
 ---
 
