@@ -39,13 +39,13 @@ flutter pub get
 flutter run
 ```
 
-## 🔥 Prints da Aplicação na Versão Mobile
+## 📱 Prints da Aplicação na Versão Mobile
 
 | Tela de Login | Tela de Cadastro | Lista de Pokémons |
 |:-------------:|:----------------:|:-----------------:|
-| ![Tela de Login](imagens/login) | ![Tela de Cadastro](imagens/cadastro) | ![Lista Pokémons](imagens/lista) | ![Pesquisa na Lista](imagens/pesquisa) |
+| ![Tela de Login](imagens/login.png) | ![Tela de Cadastro](imagens/cadastro.png) | ![Lista Pokémons](imagens/lista.png) | ![Pesquisa na Lista](imagens/pesquisa.png) |
 
-## 🔥 Prints da Aplicação na Versão Web
+## 💻 Prints da Aplicação na Versão Web
 
 | Tela de Login | Tela de Cadastro | Lista de Pokémons |
 |:-------------:|:----------------:|:-----------------:|
