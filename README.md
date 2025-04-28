@@ -1,19 +1,51 @@
-# pokedex
+# 📱 Pokedex Flutter
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Este projeto é uma **Pokedex** desenvolvida em **Flutter**, que integra dados de uma API pública de Pokémon e utiliza o **Firebase** para autenticação de usuários.
 
-## Getting Started
+## 🚀 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Tela de login e cadastro utilizando **Firebase Authentication**.
+- Listagem de Pokémons consumindo dados de uma API externa.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## 🛠️ Tecnologias Utilizadas
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter (Dart)
+- Firebase Authentication
+- PokéAPI
 
-## Getting Started: FlutLab - Flutter Online IDE
+## ⚙️ Como Rodar o Projeto
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+```
+
+Instale as dependências:
+
+```bash
+flutter pub get
+```
+
+Execute o projeto:
+
+```bash
+flutter run
+```
+
+## 🔥 Prints da Aplicação
+
+| Tela de Login | Tela de Cadastro | Lista de Pokémons |
+|:-------------:|:----------------:|:-----------------:|
+| ![Login Screen](link_da_imagem_login) | ![Cadastro Screen](link_da_imagem_cadastro) | ![Lista Pokémons](link_da_imagem_lista) |
+
+## 📦 Link para Testar
+
+- 🔗 [Clique aqui para baixar o APK ou acessar a versão web](link_para_o_apk_ou_web)
+
+---
+
+## 👨‍🎓 Desenvolvido por
+
+**Caio Taveira - 23947**
