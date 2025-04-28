@@ -15,30 +15,41 @@ Este projeto é uma **Pokedex** desenvolvida em **Flutter**, que integra dados d
 
 ## ⚙️ Como Rodar o Projeto
 
-Clone o repositório:
+1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/caiotaveiraa/pokedex.git
 ```
 
-Instale as dependências:
+2. Acesse a pasta do projeto:
+
+```bash
+cd pokedex
+```
+
+3. Instale as dependências:
 
 ```bash
 flutter pub get
 ```
 
-Execute o projeto:
+4. Execute o projeto:
 
 ```bash
 flutter run
 ```
 
-## 🔥 Prints da Aplicação
+## 🔥 Prints da Aplicação na Versão Mobile
 
 | Tela de Login | Tela de Cadastro | Lista de Pokémons |
 |:-------------:|:----------------:|:-----------------:|
-| ![Login Screen](link_da_imagem_login) | ![Cadastro Screen](link_da_imagem_cadastro) | ![Lista Pokémons](link_da_imagem_lista) |
+| ![Tela de Login](imagens/login) | ![Tela de Cadastro](imagens/cadastro) | ![Lista Pokémons](imagens/lista) | ![Pesquisa na Lista](imagens/pesquisa) |
+
+## 🔥 Prints da Aplicação na Versão Web
+
+| Tela de Login | Tela de Cadastro | Lista de Pokémons |
+|:-------------:|:----------------:|:-----------------:|
+| ![Tela de Login Web](imagens/) | ![Tela de Cadastro Web](imagens/) | ![Lista Pokémons Web](imagens/) |
 
 ## 📦 Link para Testar
 
