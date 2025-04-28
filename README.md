@@ -41,8 +41,8 @@ flutter run
 
 ## 📱 Prints da Aplicação na Versão Mobile
 
-| Tela de Login | Tela de Cadastro | Lista de Pokémons |
-|:-------------:|:----------------:|:-----------------:|
+| Tela de Login | Tela de Cadastro | Lista de Pokémons | Pesquisa na Lista de Pokémons |
+|:-------------:|:----------------:|:-----------------:|:-----------------:|
 | ![Tela de Login](imagens/login.png) | ![Tela de Cadastro](imagens/cadastro.png) | ![Lista Pokémons](imagens/lista.png) | ![Pesquisa na Lista](imagens/pesquisa.png) |
 
 ## 💻 Prints da Aplicação na Versão Web
