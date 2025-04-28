@@ -51,6 +51,12 @@ flutter run
 |:-----------------:|:-----------------:|:-----------------:|:-----------------:|
 | ![Tela de Login Web](imagens/login-web.png) | ![Tela de Cadastro Web](imagens/cadastro-web.png) | ![Lista Pokémons Web](imagens/lista-web.png) | ![Pesquisa na Lista Web](imagens/pesquisa-web.png) |
 
+## 🛢️ Print do Firebase
+
+| Firebase |
+|:-----------------:|
+| ![Firebase](imagens/firebase.png) |
+
 ## 📦 Link para Testar
 
 - 🔗 [Clique aqui para baixar o APK ou acessar a versão web](link_para_o_apk_ou_web)
